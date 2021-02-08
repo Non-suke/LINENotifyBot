@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "タスク-LINE通知",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

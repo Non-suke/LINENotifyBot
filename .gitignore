@@ -7,3 +7,5 @@ __pycache__
 references.md
 test/access_token.txt
 test/test.png
+access_token.txt
+*.pickle
