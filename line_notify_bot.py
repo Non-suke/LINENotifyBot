@@ -83,6 +83,8 @@ def main():
             message = name+':\n'+url+'\nhas changed.'
             bot.send(message)
 
+    print('Web page checking completed')
+
     pickle_dump(page_record,'./page_record.pickle')
 
     return
