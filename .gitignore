@@ -9,3 +9,4 @@ test/access_token.txt
 test/test.png
 access_token.txt
 *.pickle
+execute.bat
